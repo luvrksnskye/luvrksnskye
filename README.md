@@ -5,7 +5,7 @@
 Hewo! My name is Skye. I'm a creator and frontend developer currently studying software engineering in a small town, building my version of the digital world one step at a time. I love creating things and playing with colors in my digital space. I love playing and messing around with codes! I'm passionate about what I do, and I'm in love with creativity, an eternal dance. I learned to program a long time ago when I was just a toddler, experimenting with code from my favorite indie games. I've always been passionate about technology and video games, as well as graphic design, and I'm surrounded by friends who I can now say are talented artists! <3 I aspire to one day create wonderful things for everyone, I want to offer many things to the world.
 
 <div align="center">
-  <img src="https://github.com/luvrksnskye/luvrksnskye/blob/67924e2279750e6638cba3b871213e99de73fe3b/rain.png" alt="image alt" width="500">
+  <img src="https://github.com/luvrksnskye/luvrksnskye/blob/67924e2279750e6638cba3b871213e99de73fe3b/rain.png" alt="image alt" width="300">
 </div>
 
 <p align="left">
