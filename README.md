@@ -5,10 +5,6 @@
 Hewo! My name is Skye. I'm a creator and frontend developer currently studying software engineering in a small town, building my version of the digital world one step at a time. I love creating things and playing with colors in my digital space. I love playing and messing around with codes! I'm passionate about what I do, and I'm in love with creativity, an eternal dance. I learned to program a long time ago when I was just a toddler, experimenting with code from my favorite indie games. I've always been passionate about technology and video games, as well as graphic design, and I'm surrounded by friends who I can now say are talented artists! <3 I aspire to one day create wonderful things for everyone, I want to offer many things to the world.
 
 <p align="left">
-  <a href="https://www.youtube.com/c/Luvrksn_Skye?sub_confirmation=1">
-     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23FF6B88&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=FF4475"/></a> 
-  <a href="https://www.youtube.com/c/Luvrksn_Skye">
-     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23FFB6C1&logo=eye&logoColor=white&style=for-the-badge&labelColor=FFA5B3"/></a> 
   <a href="https://github.com/luvrksnskye?tab=followers">
      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=FF6B88&labelColor=FF4475&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/luvrksnskye?tab=repositories&sort=stargazers">
