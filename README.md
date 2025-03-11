@@ -34,13 +34,9 @@ Hewo! My name is Skye. I'm a creator and frontend developer currently studying s
 
 #
 
-### 🫐 Latest YouTube Videos
+### 🫐 Support
 
-<!-- BEGIN YOUTUBE-CARDS -->
 
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/Luvrksn_Skye?sub_confirmation=1)
 
 #
 
