@@ -10,16 +10,17 @@ Hewo! My name is Skye. I'm a creator and frontend developer currently studying s
 
 <p align="left">
   <a href="https://github.com/luvrksnskye?tab=followers">
-     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/luvrksnskye?color=FFC0CB&labelColor=FFB6C1&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/luvrksnskye?color=FFC0CB&labelColor=FFB6C1&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&textColor=white"/></a>
   <a href="https://github.com/luvrksnskye?tab=repositories&sort=stargazers">
-     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luvrksnskye?color=FFD1DC&style=for-the-badge&labelColor=FFB6C1&logo=star"/></a>
+     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luvrksnskye?color=FFD1DC&style=for-the-badge&labelColor=FFB6C1&logo=star&logoColor=white&textColor=white"/></a>
   <a href="https://luvrksknskyejourney.org/" target="_blank">
-    <img alt="Website" title="Visit my website" src="https://img.shields.io/badge/Website-FFCCDD?style=for-the-badge&logo=world&logoColor=white"/>
+    <img alt="Website" title="Visit my website" src="https://img.shields.io/badge/Website-FFCCDD?style=for-the-badge&logo=world&logoColor=white&labelColor=FFB6C1&color=FFC0CB&labelColor=FFB6C1&textColor=white"/>
   </a>
   <a href="https://www.youtube.com/@Luvrksn_Skye" target="_blank">
-    <img alt="YouTube" title="Check out my YouTube channel" src="https://img.shields.io/badge/YouTube-FFB3C6?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img alt="YouTube" title="Check out my YouTube channel" src="https://img.shields.io/badge/YouTube-FFB3C6?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FFB6C1&color=FFD1DC&textColor=white"/>
   </a>
 </p>
+
 
 
 ---
