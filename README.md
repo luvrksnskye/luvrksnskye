@@ -50,7 +50,7 @@ Hewo! My name is Skye. I'm a creator and frontend developer currently studying s
   </a>
 </div>
 
-Interested in web development and web design! Creating hand-coded websites with HTML/CSS/JS since long time ago and i love it so much ヾ(＠⌒ー⌒＠)ノ
+Interested in web development and web design! Creating hand-coded websites with HTML/CSS/JS since long time ago and i love it so much. My biggest project so far and in development has been my website, SKYE JOURNEY! ヾ(＠⌒ー⌒＠)ノ
 
 #
 
