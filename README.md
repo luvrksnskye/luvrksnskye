@@ -46,7 +46,7 @@ Hewo! My name is Skye. I'm a creator and frontend developer currently studying s
 ### 🫐 Support
 
 <div align="center">
-  <a href="https://ko-fi.com/luvrksn_koi" target="_blank">
+  <a href="https://ko-fi.com/luvrksnskye" target="_blank">
     <img src="https://github.com/luvrksnskye/luvrksnskye/blob/f1708c2701b606d9feb6de6388a8573ea856280a/ko-fi.png" alt="image alt" width="300">
   </a>
 </div>
