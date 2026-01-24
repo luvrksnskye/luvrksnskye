@@ -1,8 +1,8 @@
 # 🍓 Skye
 
-**`Digital girl (Developer/Writer/Creator)`**
+**`Digital girl (Developer/Artist/Creator)`**
 
-Hewo! My name is Skye. I'm a creator and frontend developer currently studying software engineering in a small town, building my version of the digital world one step at a time. I love creating things and playing with colors in my digital space. I love playing and messing around with codes! I'm passionate about what I do, and I'm in love with creativity, an eternal dance. I learned to program a long time ago when I was just a toddler, experimenting with code from my favorite indie games. I've always been passionate about technology and video games, as well as graphic design, and I'm surrounded by friends who I can now say are talented artists! <3 I aspire to one day create wonderful things for everyone, I want to offer many things to the world.
+Hewo! My name is Skye. I'm an artist and frontend developer currently in a small town, building my version of the digital world one step at a time. I love creating things and playing with colors in my digital space. Playing and messing around with codes is mostly what I do all the time! I'm passionate about what I do, and I'm in love with creativity, as my eternal dance. I learned to program a long time ago, when I was just a teenager, experimenting with code from my favorite indie games. I've always been passionate about technology and video games, as well as graphic design, and I'm surrounded by friends who I can now say are talented artists! <3 I aspire to one day create wonderful things for everyone, I want to offer many things to the world. Currently working as part of the THOG team! 💛
 
 <div align="center">
   <img src="https://github.com/luvrksnskye/luvrksnskye/blob/67924e2279750e6638cba3b871213e99de73fe3b/rain.png" alt="image alt" width="300">
@@ -29,7 +29,6 @@ Hewo! My name is Skye. I'm a creator and frontend developer currently studying s
 ### 🍥 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -51,14 +50,8 @@ Hewo! My name is Skye. I'm a creator and frontend developer currently studying s
   </a>
 </div>
 
-Interested in web development and web design! Creating hand-coded websites with HTML/CSS/JS since long time ago and i love it so much. My biggest project so far and in development has been my website, SKYE JOURNEY! ヾ(＠⌒ー⌒＠)ノ
+Interested in web development and web design! Creating hand-coded websites with HTML/CSS/JS since long time ago and i love it so much. My biggest project so far and in development has been my website, SKYE JOURNEY! Now I'm working all the time on my personal projects using Godot Engine.
 
 #
 
-### 🍡 Stats
-
-![Skye's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvrksnskye&show_icons=true&theme=omni)
-
-
-#
 
