@@ -4,7 +4,7 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=luvrksnskye&theme=fuji&pixelate_avatar=false&dithering=true">
 </picture>
 
-**`Digital girl (Developer/Artist/Creator) .✦ ݁˖`**
+**`Digital girl (Developer/Designer/Creator) .✦ ݁˖`**
 
 Hewo! My name is Skye. <br>I'm an artist and frontend developer currently in a small town, building my version of the digital world one step at a time. <br>I love creating things and playing with colors in my digital space. Playing and messing around with codes is mostly what I do all the time!<br> I'm passionate about what I do, and I'm in love with creativity.<br> I learned to program a long time ago, when I was just a teenager, experimenting with code from my favorite indie games.<br> I've always been passionate about technology and video games, as well as graphic design, and I'm surrounded by friends who I can now say are talented artists! <br> I aspire to one day create wonderful things for everyone, I want to offer many things to the world. <br>Currently working as part of the THOG team! 💛
 
