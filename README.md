@@ -1,7 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile-pixel-profile-server-chi.vercel.app/api/github-stats?username=luvrksnskye&theme=fuji">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-pixel-profile-server-chi.vercel.app/api/github-stats?username=luvrksnskye&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile-pixel-profile-server-chi.vercel.app/api/github-stats?username=luvrksnskye&theme=fuji">
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=luvrksnskye&theme=fuji">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=luvrksnskye&screen_effect=true&theme=fuji">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=luvrksnskye&theme=fuji">
 </picture>
 
 **`Digital girl (Developer/Artist/Creator) .✦ ݁˖`**
