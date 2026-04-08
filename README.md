@@ -8,7 +8,7 @@
 
 Hewo! My name is Skye. I'm an artist and frontend developer currently in a small town, building my version of the digital world one step at a time. I love creating things and playing with colors in my digital space. Playing and messing around with codes is mostly what I do all the time! I'm passionate about what I do, and I'm in love with creativity. I learned to program a long time ago, when I was just a teenager, experimenting with code from my favorite indie games. I've always been passionate about technology and video games, as well as graphic design, and I'm surrounded by friends who I can now say are talented artists! I aspire to one day create wonderful things for everyone, I want to offer many things to the world.
 
-<br>I'm currently working on both personal and professional projects. I'm a concept artist for MEGAB and the website designer for THOG. I occasionally experience burnout. Please bear with me.
+<br>I'm currently working on both personal and professional projects. I'm a concept artist for MEGAB ✦. I occasionally experience burnout. Please bear with me. Right now, I am on a long break. Thank u.
 
 <div align="center">
   <img src="https://github.com/luvrksnskye/luvrksnskye/blob/67924e2279750e6638cba3b871213e99de73fe3b/rain.png" alt="image alt" width="300">
