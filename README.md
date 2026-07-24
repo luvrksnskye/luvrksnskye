@@ -34,7 +34,7 @@ Hewo! My name is Skye. I'm an artist and frontend developer currently in a small
 <div align="center">
 
   <a href="https://github.com/luvrksnskye/BlenderResources-ShadersStudies" target="_blank">
-    <img src="./SimpleBanner.png" alt="imaget" width="300">
+    <img src="./SimpleBanner.png" alt="image-banner" width="500">
   </a>
 
 </div>
