@@ -33,7 +33,9 @@ Hewo! My name is Skye. I'm an artist and frontend developer currently in a small
 
 <div align="center">
 
-[![BlenderResources-ShadersStudies](https://github-readme-stats.vercel.app/api/pin/?username=luvrksnskye&repo=BlenderResources-ShadersStudies&hide_border=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/luvrksnskye/BlenderResources-ShadersStudies)
+  <a href="https://github.com/luvrksnskye/BlenderResources-ShadersStudies" target="_blank">
+    <img src="./SimpleBanner.png" alt="imaget" width="300">
+  </a>
 
 </div>
 
