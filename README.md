@@ -26,7 +26,7 @@
 
 <img src="./assetslog/divider.png" width="800" alt="">
 
-<img src="./assetslog/rain.png" align="right" width="260" alt="">
+<img src="./assetslog/rain.png" align="right" width="160" alt="">
 
 ### ✦ ݁˖ Hewo, I'm Skye
 
